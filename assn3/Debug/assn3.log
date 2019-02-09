@@ -1,0 +1,8 @@
+﻿  assn3.cpp
+c:\users\mathieu\documents\visual_studio_2015\projects\assn3\assn3\drawable.h(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\mathieu\documents\visual_studio_2015\projects\assn3\assn3\assn3.cpp(10): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+c:\users\mathieu\documents\visual_studio_2015\projects\assn3\assn3\assn3.cpp(17): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+c:\users\mathieu\documents\visual_studio_2015\projects\assn3\assn3\assn3.cpp(33): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+c:\users\mathieu\documents\visual_studio_2015\projects\assn3\assn3\assn3.cpp(45): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+  assn3.vcxproj -> C:\Users\Mathieu\Documents\Visual_Studio_2015\Projects\assn3\Debug\assn3.exe
+  assn3.vcxproj -> C:\Users\Mathieu\Documents\Visual_Studio_2015\Projects\assn3\Debug\assn3.pdb (Partial PDB)
